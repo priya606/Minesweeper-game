@@ -1,3 +1,3 @@
 # Minesweeper-game
 
-##Developing Minesweeper Game in Python using Tkinter
+Developing Minesweeper Game in Python using Tkinter
